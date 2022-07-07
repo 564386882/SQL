@@ -1,3 +1,3 @@
 # SQL
 
-[Oracle的坑](./Oracle)
+[Oracle的坑](./Oracle.md)
